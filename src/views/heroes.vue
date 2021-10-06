@@ -58,7 +58,6 @@
     </Modal>
   </div>
 </template>
-
 <script>
 import Modal from '@/components/modal';
 import { dataService } from '../shared';
