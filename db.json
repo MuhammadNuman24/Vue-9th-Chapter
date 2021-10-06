@@ -5,8 +5,9 @@
       "firstName": "Madelyn",
       "lastName": "Papa",
       "capeCounter": 3,
-      "originDate": "08/01/1998",
-      "description": "the cat whisperer"
+      "originDate": "1998-08-01",
+      "description": "the cat whisperer",
+      "fullName": "Madlyn Papa"
     },
     {
       "id": 30,
